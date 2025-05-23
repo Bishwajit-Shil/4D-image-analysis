@@ -1,204 +1,6 @@
 This is where we are going to make additions and stage and at last commit
-100 days ago <- image processing
-99 days ago <- image processing
-98 days ago <- image processing
-97 days ago <- image processing
-96 days ago <- image processing
-95 days ago <- image processing
-94 days ago <- image processing
-93 days ago <- image processing
-92 days ago <- image processing
-91 days ago <- image processing
-90 days ago <- image processing
-89 days ago <- image processing
-88 days ago <- image processing
-87 days ago <- image processing
-86 days ago <- image processing
-85 days ago <- image processing
-84 days ago <- image processing
-83 days ago <- image processing
-82 days ago <- image processing
-81 days ago <- image processing
-80 days ago <- image processing
-79 days ago <- image processing
-78 days ago <- image processing
-77 days ago <- image processing
-76 days ago <- image processing
-75 days ago <- image processing
-74 days ago <- image processing
-73 days ago <- image processing
-72 days ago <- image processing
-71 days ago <- image processing
-70 days ago <- image processing
-69 days ago <- image processing
-68 days ago <- image processing
-67 days ago <- image processing
-66 days ago <- image processing
-65 days ago <- image processing
-64 days ago <- image processing
-63 days ago <- image processing
-62 days ago <- image processing
-61 days ago <- image processing
-60 days ago <- image processing
-59 days ago <- image processing
-58 days ago <- image processing
-57 days ago <- image processing
-56 days ago <- image processing
-55 days ago <- image processing
-54 days ago <- image processing
-53 days ago <- image processing
-52 days ago <- image processing
-51 days ago <- image processing
-50 days ago <- image processing
-49 days ago <- image processing
-48 days ago <- image processing
-47 days ago <- image processing
-46 days ago <- image processing
-45 days ago <- image processing
-44 days ago <- image processing
-43 days ago <- image processing
-42 days ago <- image processing
-41 days ago <- image processing
-40 days ago <- image processing
-39 days ago <- image processing
-38 days ago <- image processing
-37 days ago <- image processing
-36 days ago <- image processing
-35 days ago <- image processing
-34 days ago <- image processing
-33 days ago <- image processing
-32 days ago <- image processing
-31 days ago <- image processing
-30 days ago <- image processing
-29 days ago <- image processing
-28 days ago <- image processing
-27 days ago <- image processing
-26 days ago <- image processing
-25 days ago <- image processing
-24 days ago <- image processing
-23 days ago <- image processing
-22 days ago <- image processing
-21 days ago <- image processing
-20 days ago <- image processing
-19 days ago <- image processing
-18 days ago <- image processing
-17 days ago <- image processing
-16 days ago <- image processing
-15 days ago <- image processing
-14 days ago <- image processing
-13 days ago <- image processing
-12 days ago <- image processing
-11 days ago <- image processing
-10 days ago <- image processing
-9 days ago <- image processing
-8 days ago <- image processing
-7 days ago <- image processing
-6 days ago <- image processing
-5 days ago <- image processing
-4 days ago <- image processing
-3 days ago <- image processing
-2 days ago <- image processing
-1 days ago <- image processing
-100 days ago <- image processing
-98 days ago <- image processing
-96 days ago <- image processing
-94 days ago <- image processing
-92 days ago <- image processing
-90 days ago <- image processing
-88 days ago <- image processing
-86 days ago <- image processing
-84 days ago <- image processing
-82 days ago <- image processing
-80 days ago <- image processing
-78 days ago <- image processing
-76 days ago <- image processing
-74 days ago <- image processing
-72 days ago <- image processing
-70 days ago <- image processing
-68 days ago <- image processing
-66 days ago <- image processing
-64 days ago <- image processing
-62 days ago <- image processing
-60 days ago <- image processing
-58 days ago <- image processing
-56 days ago <- image processing
-54 days ago <- image processing
-52 days ago <- image processing
-50 days ago <- image processing
-48 days ago <- image processing
-46 days ago <- image processing
-44 days ago <- image processing
-42 days ago <- image processing
-40 days ago <- image processing
-38 days ago <- image processing
-36 days ago <- image processing
-34 days ago <- image processing
-32 days ago <- image processing
-30 days ago <- image processing
-28 days ago <- image processing
-26 days ago <- image processing
-24 days ago <- image processing
-22 days ago <- image processing
-20 days ago <- image processing
-18 days ago <- image processing
-16 days ago <- image processing
-14 days ago <- image processing
-12 days ago <- image processing
-10 days ago <- image processing
-8 days ago <- image processing
-6 days ago <- image processing
-4 days ago <- image processing
-2 days ago <- image processing
-100 days ago <- image processing
-98 days ago <- image processing
-96 days ago <- image processing
-94 days ago <- image processing
-92 days ago <- image processing
-90 days ago <- image processing
-88 days ago <- image processing
-86 days ago <- image processing
-84 days ago <- image processing
-82 days ago <- image processing
-80 days ago <- image processing
-78 days ago <- image processing
-76 days ago <- image processing
-74 days ago <- image processing
-72 days ago <- image processing
-70 days ago <- image processing
-68 days ago <- image processing
-66 days ago <- image processing
-64 days ago <- image processing
-62 days ago <- image processing
-60 days ago <- image processing
-58 days ago <- image processing
-56 days ago <- image processing
-54 days ago <- image processing
-52 days ago <- image processing
-50 days ago <- image processing
-48 days ago <- image processing
-46 days ago <- image processing
-44 days ago <- image processing
-42 days ago <- image processing
-40 days ago <- image processing
-38 days ago <- image processing
-36 days ago <- image processing
-34 days ago <- image processing
-32 days ago <- image processing
-30 days ago <- image processing
-28 days ago <- image processing
-26 days ago <- image processing
-24 days ago <- image processing
-22 days ago <- image processing
-20 days ago <- image processing
-18 days ago <- image processing
-16 days ago <- image processing
-14 days ago <- image processing
-12 days ago <- image processing
-10 days ago <- image processing
-8 days ago <- image processing
-6 days ago <- image processing
-4 days ago <- image processing
-2 days ago <- image processing
+
+
 90 days ago <- Updated machine learning algorithms code
 83 days ago <- Updated machine learning algorithms code
 76 days ago <- Updated machine learning algorithms code
@@ -212,3 +14,17 @@ This is where we are going to make additions and stage and at last commit
 20 days ago <- Updated machine learning algorithms code
 13 days ago <- Updated machine learning algorithms code
 6 days ago <- Updated machine learning algorithms code
+90 days ago <- Updated machine learning algorithms code
+83 days ago <- Updated machine learning algorithms code
+76 days ago <- Updated machine learning algorithms code
+69 days ago <- Updated machine learning algorithms code
+62 days ago <- Updated machine learning algorithms code
+55 days ago <- Updated machine learning algorithms code
+48 days ago <- Updated machine learning algorithms code
+41 days ago <- Updated machine learning algorithms code
+34 days ago <- Updated machine learning algorithms code
+27 days ago <- Updated machine learning algorithms code
+20 days ago <- Updated machine learning algorithms code
+13 days ago <- Updated machine learning algorithms code
+6 days ago <- Updated machine learning algorithms code
+90 days ago <- Update machine learning 
