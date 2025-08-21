@@ -2,41 +2,33 @@ This is where we are going to make additions and stage and at last commit
 
 
 90 days ago <- Updated machine learning algorithms code
-83 days ago <- Updated machine learning algorithms code
+88 days ago <- Updated machine learning algorithms code
+86 days ago <- Updated machine learning algorithms code
+84 days ago <- Updated machine learning algorithms code
+82 days ago <- Updated machine learning algorithms code
+80 days ago <- Updated machine learning algorithms code
+78 days ago <- Updated machine learning algorithms code
 76 days ago <- Updated machine learning algorithms code
-69 days ago <- Updated machine learning algorithms code
+74 days ago <- Updated machine learning algorithms code
+72 days ago <- Updated machine learning algorithms code
+70 days ago <- Updated machine learning algorithms code
+68 days ago <- Updated machine learning algorithms code
+66 days ago <- Updated machine learning algorithms code
+64 days ago <- Updated machine learning algorithms code
 62 days ago <- Updated machine learning algorithms code
-55 days ago <- Updated machine learning algorithms code
+60 days ago <- Updated machine learning algorithms code
+58 days ago <- Updated machine learning algorithms code
+56 days ago <- Updated machine learning algorithms code
+54 days ago <- Updated machine learning algorithms code
+52 days ago <- Updated machine learning algorithms code
+50 days ago <- Updated machine learning algorithms code
 48 days ago <- Updated machine learning algorithms code
-41 days ago <- Updated machine learning algorithms code
+46 days ago <- Updated machine learning algorithms code
+44 days ago <- Updated machine learning algorithms code
+42 days ago <- Updated machine learning algorithms code
+40 days ago <- Updated machine learning algorithms code
+38 days ago <- Updated machine learning algorithms code
+36 days ago <- Updated machine learning algorithms code
 34 days ago <- Updated machine learning algorithms code
-27 days ago <- Updated machine learning algorithms code
-20 days ago <- Updated machine learning algorithms code
-13 days ago <- Updated machine learning algorithms code
-6 days ago <- Updated machine learning algorithms code
-90 days ago <- Updated machine learning algorithms code
-83 days ago <- Updated machine learning algorithms code
-76 days ago <- Updated machine learning algorithms code
-69 days ago <- Updated machine learning algorithms code
-62 days ago <- Updated machine learning algorithms code
-55 days ago <- Updated machine learning algorithms code
-48 days ago <- Updated machine learning algorithms code
-41 days ago <- Updated machine learning algorithms code
-34 days ago <- Updated machine learning algorithms code
-27 days ago <- Updated machine learning algorithms code
-20 days ago <- Updated machine learning algorithms code
-13 days ago <- Updated machine learning algorithms code
-6 days ago <- Updated machine learning algorithms code
-90 days ago <- Update machine learning 
-83 days ago <- Update machine learning 
-76 days ago <- Update machine learning 
-69 days ago <- Update machine learning 
-62 days ago <- Update machine learning 
-55 days ago <- Update machine learning 
-48 days ago <- Update machine learning 
-41 days ago <- Update machine learning 
-34 days ago <- Update machine learning 
-27 days ago <- Update machine learning 
-20 days ago <- Update machine learning 
-13 days ago <- Update machine learning 
-6 days ago <- Update machine learning 
+32 days ago <- Updated machine learning algorithms code
+30 days ago <- Updated machine learning algorithms code
